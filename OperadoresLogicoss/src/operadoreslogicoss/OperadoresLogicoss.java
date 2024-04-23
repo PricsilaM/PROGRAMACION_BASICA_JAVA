@@ -11,11 +11,11 @@ public class OperadoresLogicoss {
                 System.out.println("AND: "+ resultadoAnd);
                 
         //
-        boolean resultadoO = esVerdadero || es Falso;
+        boolean resultadoO = esVerdadero || esFalso;
                 System.out.println("OR: "+ resultadoO);
         
         //Operador NOT (!)
-        boolean resultadoNot =!esVedadero;
+        boolean resultadoNot = !esVerdadero;
                 System.out.println("NOT: "+ resultadoNot);
     }
     
