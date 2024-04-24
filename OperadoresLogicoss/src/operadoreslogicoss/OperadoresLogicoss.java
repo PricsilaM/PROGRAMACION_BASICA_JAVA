@@ -18,5 +18,5 @@ public class OperadoresLogicoss {
         boolean resultadoNot = !esVerdadero;
                 System.out.println("NOT: "+ resultadoNot);
     }
-    
+
 }
